@@ -25,7 +25,7 @@ The app is developed using **React**, **React Router v7**, and **Tailwind CSS**.
 
 ## 📸 Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/iMuhammadAnas/Learning-Projects/refs/heads/main/public/learning-projects.png)
+![Screenshot](https://raw.githubusercontent.com/iMuhammadAnas/E-Commerce-App/refs/heads/main/public/E-Commerce-App.png)
 
 ---
 
